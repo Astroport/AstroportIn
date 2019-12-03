@@ -4,6 +4,10 @@
           a:hover{
             text-decoration: none;
             }
+        logo{
+		width : 100px;
+		height:80px;
+}
             .homepage {
     display: flex;
     flex-direction: column;
@@ -106,20 +110,6 @@
       align-items: center;
       justify-content: flex-end; 
     }
-      .option {
-        padding: 10px 15px;
-        cursor: pointer;
-      }
-      
-      .cart-icon {
-    width: 45px;
-    height: 45px;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-	  }
 	 .text{
       margin:10px;
       padding: 25px;
@@ -130,6 +120,4 @@
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       font-weight: 600;
       border-radius: 10px;
-  
-
   }
